@@ -9,3 +9,6 @@ First "ok" button closes all copies of fish.exe
 Second "ok" button just opens a new copy of fish.exe
 
 ["dont" opens Binky fish in your browser](https://www.youtube.com/watch?v=sdYjJsr6FS8)
+
+
+[Release that includes the exe which can be run is found here](https://github.com/mamabun/Fish/releases)
